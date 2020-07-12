@@ -10,6 +10,11 @@
 * [Curso de JavaScript desde cero - Principiantes](https://www.youtube.com/playlist?list=PLPl81lqbj-4J_AQ3YYnzusbt7FpeL2oea)
 * [Curso: GIT - GITHUB Desde Cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls)
 
+### SCRUM
+* [Curso de Aprende SCRUM: Gestión de proyectos – 2015](https://www.librosvirtual.com/60335/curso-de-aprende-scrum-gestion-de-proyectos-2015) - Temario - [Videos](https://mega.nz/folder/A0c3VKhD#as4yHhD2e7JcJZBbwnvEQw)
+
+* [Ágil Es - Por Cris Rúa](https://www.youtube.com/c/%C3%81gilEsPorCrisR%C3%BAa)
+
 ### [Galaxy Training](https://galaxy.edu.pe/portal/)
 
 * [Introducción a Java](https://www.youtube.com/watch?v=MjRh3bIRR38)
