@@ -1,16 +1,20 @@
 # Temario para principiantes:
 
+### Herramientas:
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git](https://git-scm.com/)
+
 ### Bluuweb.
 
 * [Cómo aprender a Programar desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4KAyrmUlEE9dPWN2oLhC5Wy)
 * [Curso de JavaScript desde cero - Principiantes](https://www.youtube.com/playlist?list=PLPl81lqbj-4J_AQ3YYnzusbt7FpeL2oea)
 * [Curso: GIT - GITHUB Desde Cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls)
 
-### Galaxy Training.
+### [Galaxy Training](https://galaxy.edu.pe/portal/)
 
 * [Introducción a Java](https://www.youtube.com/watch?v=MjRh3bIRR38)
 
-## Herramientas:
+### Herramientas:
 
 Java Development Kit
 * AdoptOpenJdk - [JDK 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot) - Descarga libre.
@@ -31,7 +35,8 @@ Java Development Kit
 
 * [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
 
-### MitoCode.
+### [MitoCode](https://mitocode.com/)
+
 
 * [Java 7 SE Básico](https://www.youtube.com/playlist?list=PLvimn1Ins-42o8Ms1G2SuRloD01nnXn31)
 * [Java 7 SE Avanzado](https://www.youtube.com/playlist?list=PLvimn1Ins-43qPXR3gBcxwe7tydxZtsON)
