@@ -1,5 +1,8 @@
 # Temario para principiantes:
 
+### Fundamentos
+[Curso: Programación desde cero (2020)](https://www.youtube.com/playlist?list=PLv6CkzbbGAlV_dDdKrPQjmZUX4PkPqwlO)
+
 ### Herramientas:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/)
