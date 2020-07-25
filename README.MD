@@ -10,6 +10,11 @@
 * [Curso de JavaScript desde cero - Principiantes](https://www.youtube.com/playlist?list=PLPl81lqbj-4J_AQ3YYnzusbt7FpeL2oea)
 * [Curso: GIT - GITHUB Desde Cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls)
 
+### [yacklyon](https://www.youtube.com/channel/UCRWjpn9LNoQqhJ59AT_yxPw)
+
+* [CURSO PYTHON 2020 COMPLETO DESDE CERO](https://www.youtube.com/playlist?list=PLg9145ptuAijHNZMTDhghSdTWK3BvH8pk)
+* [Programación orientada a objetos con PYTHON (completo) 2020](https://www.youtube.com/playlist?list=PLg9145ptuAigw5pV_DRznXdOsX19dorDs)
+
 ### SCRUM
 * [Guía de Scrum](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Spanish-European.pdf)
 
@@ -62,3 +67,4 @@ Java Development Kit
 * [BettaTech](https://www.youtube.com/c/BettaTech)
 * [Paradigma Digital](https://www.youtube.com/c/ParadigmaDigital)
 * [Contando Bits](https://www.youtube.com/c/ContandoBits)
+* [Victor Robles WEB](https://www.youtube.com/c/VictorRoblesWEB)
