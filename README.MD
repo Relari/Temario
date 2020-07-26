@@ -13,6 +13,9 @@
 * [Curso de JavaScript desde cero - Principiantes](https://www.youtube.com/playlist?list=PLPl81lqbj-4J_AQ3YYnzusbt7FpeL2oea)
 * [Curso: GIT - GITHUB Desde Cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls)
 
+### Reforzar JavaScript
+[Curso de javaScript](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz)
+
 ### [yacklyon](https://www.youtube.com/channel/UCRWjpn9LNoQqhJ59AT_yxPw)
 
 * [CURSO PYTHON 2020 COMPLETO DESDE CERO](https://www.youtube.com/playlist?list=PLg9145ptuAijHNZMTDhghSdTWK3BvH8pk)
