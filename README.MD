@@ -8,11 +8,11 @@
 * [¿Qué es diseño gráfico, diseño UX y diseño UI?](https://www.youtube.com/watch?v=sAZ2A1bztwQ)
 * [Los roles en backend explicados](https://www.youtube.com/watch?v=ZTsi1e-VJIU&t=1s)
 * [Aprende a programar en 20 minutos - #EDtaller 136](https://www.youtube.com/watch?v=cd549lZtPEU&t=1653s)
+* [¿Qué es la programacion orientada a objetos?](https://www.youtube.com/watch?v=DlphYPc_HKk)
 * [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 * [¿Qué son las BASES DE DATOS y cómo funcionan?](https://www.youtube.com/watch?v=knVwokXITGI&t=120s)
 * [¿Qué son las APIs y para qué sirven?](https://www.youtube.com/watch?v=u2Ms34GE14U)
 * [¿Qué es el Big Data?](https://www.youtube.com/watch?v=M26iIqmqWkI)
-* [¿Qué es la programacion orientada a objetos?](https://www.youtube.com/watch?v=DlphYPc_HKk)
 * [¿Qué es SCRUM?](https://www.youtube.com/watch?v=sLexw-z13Fo&t=118s)
 * [¿Cuáles son los roles en Scrum?](https://www.youtube.com/watch?v=lSYZ1sZWvbQ)
 
