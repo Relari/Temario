@@ -85,3 +85,4 @@ Java Development Kit
 * [Paradigma Digital](https://www.youtube.com/c/ParadigmaDigital)
 * [Contando Bits](https://www.youtube.com/c/ContandoBits)
 * [Victor Robles WEB](https://www.youtube.com/c/VictorRoblesWEB)
+* [Manuel Zapata](https://www.youtube.com/channel/UCs5ccxrTx9k8DN9YXnHm5AQ)
