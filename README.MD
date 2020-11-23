@@ -43,6 +43,10 @@
 * [Lombok](https://projectlombok.org/)
 * [Spring](https://spring.io/)
 * [RxJava](http://reactivex.io/)
+* [Using RxJava 2 - Tutorial](https://www.vogella.com/tutorials/RxJava/article.html)
+* [Code Review](https://developerexperience.io/practices/code-review)
+* [Principios SOLID y patrones de diseño](https://www.oscarblancarteblog.com/2018/08/15/principios-solid-patrones-diseno/)
+* [Principios SOLID](https://medium.com/@ricartfe/principios-solid-89213a854528)
 
 ### Seguridad.
 * [SonarQube](https://www.sonarqube.org/)
