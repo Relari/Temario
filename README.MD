@@ -32,12 +32,16 @@
 * [Project Reactor](https://www.youtube.com/playlist?list=PLvimn1Ins-41pwh18gh_ZkxPOkrEEhXz6)
 * [Java 11](https://www.youtube.com/playlist?list=PLvimn1Ins-41uwtb28Jj0Aw4gKV6FGsyH)
 
+### Tips de Programacion.
+* [Buenas Prácticas de Programación en Java](https://www.youtube.com/watch?v=aCxUVpDY220)
+
 ### Herramientas:
 * [Generate Spring project.](https://start.spring.io/)
 * [Maven Repository](https://mvnrepository.com/)
 
 ### Documentacion.
 * [Lombok](https://projectlombok.org/)
+* [Spring](https://spring.io/)
 * [RxJava](http://reactivex.io/)
 
 ### Seguridad.
