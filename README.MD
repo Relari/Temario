@@ -1,5 +1,9 @@
 ### Herramientas:
 * [Git](https://git-scm.com/)
+* [Generate Spring project.](https://start.spring.io/)
+* [Maven Repository](https://mvnrepository.com/)
+* [Lombok](https://projectlombok.org/)
+* [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
 ### Java Development Kit
 * AdoptOpenJdk - [JDK 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot) - Descarga libre.
@@ -20,6 +24,7 @@
 ### [MitoCode](https://mitocode.com/) - Es mas completo en el ambito empresarial para el desarrollo de microservicios.
 * [Java 7 SE Básico](https://www.youtube.com/playlist?list=PLvimn1Ins-42o8Ms1G2SuRloD01nnXn31)
 * [Java 7 SE Avanzado](https://www.youtube.com/playlist?list=PLvimn1Ins-43qPXR3gBcxwe7tydxZtsON)
+* [Código Limpio](https://www.youtube.com/watch?v=WrbDaqKyhP4&t=616s)
 * [Git & Github](https://www.youtube.com/playlist?list=PLvimn1Ins-43-1sXQmGZPWLjNjPyGNi0R)
 * [Java 8](https://www.youtube.com/playlist?list=PLvimn1Ins-419yVe5iPfiXrg4mZJl5kLS)
 * [Patrones de diseño de software](https://www.youtube.com/playlist?list=PLvimn1Ins-41Uiugt1WbpyFo1XT1WOquL)
@@ -27,6 +32,9 @@
 * [Spring Boot](https://www.youtube.com/playlist?list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl)
 * [Project Reactor](https://www.youtube.com/playlist?list=PLvimn1Ins-41pwh18gh_ZkxPOkrEEhXz6)
 * [Java 11](https://www.youtube.com/playlist?list=PLvimn1Ins-41uwtb28Jj0Aw4gKV6FGsyH)
+
+### Documentacion.
+* [RxJava](http://reactivex.io/)
 
 ### [Galaxy Training](https://galaxy.edu.pe/portal/)
 * [Introducción a Java](https://www.youtube.com/watch?v=MjRh3bIRR38)
