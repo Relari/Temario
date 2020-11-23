@@ -1,6 +1,7 @@
 ### Herramientas:
 * [Git](https://git-scm.com/)
-Java Development Kit
+
+### Java Development Kit
 * AdoptOpenJdk - [JDK 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot) - Descarga libre.
 * Oracle - [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Descarga libre pero con registro.
 
