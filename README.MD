@@ -27,3 +27,9 @@
 * [Spring Boot](https://www.youtube.com/playlist?list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl)
 * [Project Reactor](https://www.youtube.com/playlist?list=PLvimn1Ins-41pwh18gh_ZkxPOkrEEhXz6)
 * [Java 11](https://www.youtube.com/playlist?list=PLvimn1Ins-41uwtb28Jj0Aw4gKV6FGsyH)
+
+### [Galaxy Training](https://galaxy.edu.pe/portal/)
+* [Introducción a Java](https://www.youtube.com/watch?v=MjRh3bIRR38)
+
+### pildorasinformaticas. - Contiene mas de 100 videos pero no llega a microservicios, solo aplicaciones web.
+* [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
