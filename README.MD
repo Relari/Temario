@@ -21,7 +21,7 @@
 * [JavaScript](https://github.com/Relari/Temario/tree/JavaScript)
 * [Java](https://github.com/Relari/Temario/tree/Java)
 
-### [Metodologia SCRUM](https://github.com/Relari/Temario/tree/Java)
+### [Metodologia SCRUM](https://github.com/Relari/Temario/tree/Scrum)
 
 
 ### Blogs.
