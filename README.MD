@@ -1,6 +1,6 @@
 # Temario:
 
-### [EDteam](https://www.youtube.com/c/EDteam) - Te va a explicar como funciona el area de tecnologia en el ambiente laboral, seleccione algunas que te puedan interesar mas informacion puedes entrar al canal, ahora es decicion tuya si quieres adquirir su curso premiun sino sigue los enlaces que te dejo.
+## [EDteam](https://www.youtube.com/c/EDteam) - Te va a explicar como funciona el area de tecnologia en el ambiente laboral, seleccione algunas que te puedan interesar mas informacion puedes entrar al canal, ahora es decicion tuya si quieres adquirir su curso premiun sino sigue los enlaces que te dejo.
 
 ### Para conocimiento de principiante.
 * [Curso: Programación desde cero (2020)](https://www.youtube.com/playlist?list=PLv6CkzbbGAlV_dDdKrPQjmZUX4PkPqwlO)
@@ -17,20 +17,17 @@
 * [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 * [¿Qué son las APIs y para qué sirven?](https://www.youtube.com/watch?v=u2Ms34GE14U)
 * [¿Qué es el Big Data?](https://www.youtube.com/watch?v=M26iIqmqWkI)
-
-## Metodologia Agil
 * [¿Qué es SCRUM?](https://www.youtube.com/watch?v=sLexw-z13Fo&t=118s)
 * [¿Cuáles son los roles en Scrum?](https://www.youtube.com/watch?v=lSYZ1sZWvbQ)
 
-### Cursos
+## Cursos
 * [Python](https://github.com/Relari/Temario/tree/Python)
 * [JavaScript](https://github.com/Relari/Temario/tree/JavaScript)
 * [Java](https://github.com/Relari/Temario/tree/Java)
 
-### [Metodologia SCRUM](https://github.com/Relari/Temario/tree/Scrum)
+## [Metodologia SCRUM](https://github.com/Relari/Temario/tree/Scrum)
 
-
-### Blogs.
+## Blogs.
 * [EDteam](https://www.youtube.com/c/EDteam)
 * [MitoCode](https://www.youtube.com/user/MitoCode)
 * [BettaTech](https://www.youtube.com/c/BettaTech)
