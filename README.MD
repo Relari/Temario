@@ -9,7 +9,7 @@
 * [¿Qué es la programacion orientada a objetos?](https://www.youtube.com/watch?v=DlphYPc_HKk)
 * [¿Qué son las BASES DE DATOS y cómo funcionan?](https://www.youtube.com/watch?v=knVwokXITGI&t=120s)
 
-### Si ya tienes conocimiento en desarrollo estos temas del ambito laboral seleccionados.
+### Si ya tienes conocimiento en desarrollo mirate estos temas del ambito laboral, son videos seleccionados en base a mi experiencia.
 * [¿Qué es BACKEND y FRONTEND? (guía completa)](https://www.youtube.com/watch?v=50RbVujPPGs)
 * [Los roles en frontend explicados](https://www.youtube.com/watch?v=N8mFHB7JDkw)
 * [¿Qué es diseño gráfico, diseño UX y diseño UI?](https://www.youtube.com/watch?v=sAZ2A1bztwQ)
