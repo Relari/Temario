@@ -20,6 +20,7 @@
 * [¿Qué es SCRUM?](https://www.youtube.com/watch?v=sLexw-z13Fo&t=118s)
 * [¿Cuáles son los roles en Scrum?](https://www.youtube.com/watch?v=lSYZ1sZWvbQ)
 * [Integración y despliegue continuo (CI/CD) en GCP | #EDtaller 167](https://www.youtube.com/watch?v=VCAZD02ofJs)
+* [¡Senior vs Junior! (Niveles de programadores)](https://www.youtube.com/watch?v=L7wDwgtYC3k)
 
 ## Cursos
 * [Python](https://github.com/Relari/Temario/tree/Python)
