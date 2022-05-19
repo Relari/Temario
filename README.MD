@@ -16,6 +16,7 @@
 * [Los roles en backend explicados](https://www.youtube.com/watch?v=ZTsi1e-VJIU&t=1s)
 * [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE)
 * [¿Qué son las APIs y para qué sirven?](https://www.youtube.com/watch?v=u2Ms34GE14U)
+* [¿Qué es la programación reactiva?](https://www.youtube.com/watch?v=tUB3rNsMYAk&t=639s)
 * [¿Qué es el Big Data?](https://www.youtube.com/watch?v=M26iIqmqWkI)
 * [¿Qué es SCRUM?](https://www.youtube.com/watch?v=sLexw-z13Fo&t=118s)
 * [¿Cuáles son los roles en Scrum?](https://www.youtube.com/watch?v=lSYZ1sZWvbQ)
