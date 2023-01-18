@@ -24,8 +24,6 @@
 * [¡Senior vs Junior! (Niveles de programadores)](https://www.youtube.com/watch?v=L7wDwgtYC3k)
 
 ## Cursos
-* [Python](https://github.com/Relari/Temario/tree/Python)
-* [JavaScript](https://github.com/Relari/Temario/tree/JavaScript)
 * [Java](https://github.com/Relari/Temario/tree/Java)
 
 ## [Metodologia SCRUM](https://github.com/Relari/Temario/tree/Scrum)
