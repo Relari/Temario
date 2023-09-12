@@ -1,6 +1,8 @@
 ### Java Development Kit
 * AdoptOpenJdk - [JDK 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot) - Descarga libre.
 * Oracle - [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Descarga libre pero con registro.
+* OpenJDK - [JDK 11](https://jdk.java.net/java-se-ri/11-MR2)
+* OpenJDK - [JDK 17](https://jdk.java.net/java-se-ri/17)
 
 #### IDEs 
 *(Pd. Cualquiera de ellos puedes utilizar.)*
@@ -31,6 +33,24 @@
 * [Spring Boot](https://www.youtube.com/playlist?list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl)
 * [Project Reactor](https://www.youtube.com/playlist?list=PLvimn1Ins-41pwh18gh_ZkxPOkrEEhXz6)
 * [Java 11](https://www.youtube.com/playlist?list=PLvimn1Ins-41uwtb28Jj0Aw4gKV6FGsyH)
+
+### Directos
+* [Lambda y API Stream en Java ☕](https://www.youtube.com/watch?v=U5oOdNG2XQY)
+* [Aprendamos a usar los Java Records ☕](https://www.youtube.com/watch?v=4i9ga5xJ72Y)
+* [¿Qué hay de nuevo en Java? Unboxing de ¡Java 17! ☕ - Parte 1
+](https://www.youtube.com/watch?v=1u4Krc6mhyo)
+* [¿Qué hay de nuevo en Java? Unboxing de ¡Java 17! ☕ - Parte 2](https://www.youtube.com/watch?v=aYIDl4U_jhI)
+* ¿Qué hay de nuevo en Spring Boot 3.0? 🍃](https://www.youtube.com/watch?v=h_SvzGzuezc)
+* [Fundamentos de Kafka ✴️](https://www.youtube.com/watch?v=2XoDtzfz_MU)
+* [Fundamentos de Kubernetes 🟦](https://www.youtube.com/watch?v=CnhxjKLCBU4)
+* [Fundamentos de DevOps 🟦🟥🟩](https://www.youtube.com/watch?v=g_W9G3V8oqs)
+* [Fundamentos de Azure☁️](https://www.youtube.com/watch?v=hQmkP5gVz7s)
+
+Entrevistas Tecnicas
+
+* [Preguntas de entrevista para Java Junior ☕](https://www.youtube.com/watch?v=sWgdVwpTQfQ)
+* [Preguntas técnicas para una entrevista de Java Developer ☕](https://www.youtube.com/watch?v=_tco4HJY6Yw&t=1s)
+* [Preguntas para una entrevista sobre Spring Framework/Boot 🍃](https://www.youtube.com/watch?v=DCbAm1NZ1zc)
 
 ### Tips de Programacion.
 * [Buenas Prácticas de Programación en Java](https://www.youtube.com/watch?v=aCxUVpDY220)
