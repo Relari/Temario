@@ -40,7 +40,7 @@
 * [¿Qué hay de nuevo en Java? Unboxing de ¡Java 17! ☕ - Parte 1
 ](https://www.youtube.com/watch?v=1u4Krc6mhyo)
 * [¿Qué hay de nuevo en Java? Unboxing de ¡Java 17! ☕ - Parte 2](https://www.youtube.com/watch?v=aYIDl4U_jhI)
-* ¿Qué hay de nuevo en Spring Boot 3.0? 🍃](https://www.youtube.com/watch?v=h_SvzGzuezc)
+* [¿Qué hay de nuevo en Spring Boot 3.0? 🍃](https://www.youtube.com/watch?v=h_SvzGzuezc)
 * [Fundamentos de Kafka ✴️](https://www.youtube.com/watch?v=2XoDtzfz_MU)
 * [Fundamentos de Kubernetes 🟦](https://www.youtube.com/watch?v=CnhxjKLCBU4)
 * [Fundamentos de DevOps 🟦🟥🟩](https://www.youtube.com/watch?v=g_W9G3V8oqs)
