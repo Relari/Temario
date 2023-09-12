@@ -27,7 +27,7 @@
 * [Código Limpio](https://www.youtube.com/watch?v=WrbDaqKyhP4&t=616s)
 * [Java 8](https://www.youtube.com/playlist?list=PLvimn1Ins-419yVe5iPfiXrg4mZJl5kLS)
 * [Patrones de diseño de software](https://www.youtube.com/playlist?list=PLvimn1Ins-41Uiugt1WbpyFo1XT1WOquL)
-* [Spring Framework](https://www.youtube.com/playlist?list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb)
+* [Spring Framework](https://www.youtube.com/playlist?list=PLvimn1Ins-40CImsffjCkv_TrKzYiB1gb) - Opcional
 * [Spring Boot](https://www.youtube.com/playlist?list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl)
 * [Project Reactor](https://www.youtube.com/playlist?list=PLvimn1Ins-41pwh18gh_ZkxPOkrEEhXz6)
 * [Java 11](https://www.youtube.com/playlist?list=PLvimn1Ins-41uwtb28Jj0Aw4gKV6FGsyH)
