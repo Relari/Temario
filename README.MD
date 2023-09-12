@@ -20,6 +20,8 @@
 * [¿Qué es el Big Data?](https://www.youtube.com/watch?v=M26iIqmqWkI)
 * [¿Qué es SCRUM?](https://www.youtube.com/watch?v=sLexw-z13Fo&t=118s)
 * [¿Cuáles son los roles en Scrum?](https://www.youtube.com/watch?v=lSYZ1sZWvbQ)
+* [¿Qué es Docker y Kubernetes?](https://www.youtube.com/watch?v=gjRoNFopFig)
+* [¿Qué es y qué no es DevOps?](https://www.youtube.com/watch?v=MtDFK-evWw4)
 * [Integración y despliegue continuo (CI/CD) en GCP | #EDtaller 167](https://www.youtube.com/watch?v=VCAZD02ofJs)
 * [¡Senior vs Junior! (Niveles de programadores)](https://www.youtube.com/watch?v=L7wDwgtYC3k)
 
