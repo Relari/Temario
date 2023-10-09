@@ -3,7 +3,7 @@
 ## [EDteam](https://www.youtube.com/c/EDteam) - Te va a explicar como funciona el area de tecnologia en el ambiente laboral, seleccione algunas que te puedan interesar mas informacion puedes entrar al canal, ahora es decicion tuya si quieres adquirir su curso premiun sino sigue los enlaces que te dejo.
 
 ### Si recien estas empezando con la programacion y no sabes como se hacen mira estos.
-* [Curso: Programación desde cero (2020)](https://www.youtube.com/playlist?list=PLv6CkzbbGAlV_dDdKrPQjmZUX4PkPqwlO)
+* [Curso: Programación desde cero](https://www.youtube.com/playlist?list=PLv6CkzbbGAlVcPiYTcVdgLtGFleOUskNM)
 * [Editor vs IDE ¿Qué usar para programar?](https://www.youtube.com/watch?v=dx_sfmbV-bo)
 * [Aprende a programar en 20 minutos - #EDtaller 136](https://www.youtube.com/watch?v=cd549lZtPEU&t=1653s)
 * [¿Qué es la programacion orientada a objetos?](https://www.youtube.com/watch?v=DlphYPc_HKk)
@@ -26,6 +26,7 @@
 * [¡Senior vs Junior! (Niveles de programadores)](https://www.youtube.com/watch?v=L7wDwgtYC3k)
 
 ## Cursos
+* [Cómo aprender a Programar desde cero 💪](https://www.youtube.com/playlist?list=PLPl81lqbj-4KAyrmUlEE9dPWN2oLhC5Wy)
 * [Java](https://github.com/Relari/Temario/tree/Java)
 
 ## [Metodologia SCRUM](https://github.com/Relari/Temario/tree/Scrum)
